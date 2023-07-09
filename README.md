@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any Web Development and AI/ML Projects which will help me to grow my skills as a Developer.**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1kRvygISg33qY0KIHUuOSoCwUIjlfPkoG/view?usp=drive_link.
+- 📄 Know about my experiences https://drive.google.com/file/d/1m3bCbnovQs0QjINC2Oq5xGWlGTMUth2F/view?usp=drive_link.
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, MySQL, React, Machine Learning.**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">### Connect with me</h3>
 
-<a href="https://linkedin.com/in/shivam-ranpise" target="_blank">
+<a href="linkedin.com/in/dhaval-pawar-7b556620b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.codechef.com/users/stefan076" target="_blank">

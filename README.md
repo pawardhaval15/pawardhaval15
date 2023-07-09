@@ -5,7 +5,7 @@
 <h2 align="center">A passionate Python developer from India</h2>
 
    <p align="center">
-  <img src= "https://tenor.com/view/black-clover-gif-22423459">
+  <img src= "https://media.giphy.com/media/1forTCExMq1F3M2JjS/giphy.gif">
   </p>
   
  - 🌱 I’m currently learning **Python and AI/ML Development as well as Web Development.**

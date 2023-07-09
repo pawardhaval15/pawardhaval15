@@ -5,7 +5,7 @@
 <h2 align="center">A passionate Python developer from India</h2>
 
    <p align="center">
-  <img src= "https://tenor.com/view/black-clover-gif-22423459">
+  <img src= "<div class="tenor-gif-embed" data-postid="22423459" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/black-clover-gif-22423459">Black Clover GIF</a>from <a href="https://tenor.com/search/black+clover-gifs">Black Clover GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
   </p>
   
  - 🌱 I’m currently learning **Python and AI/ML Development as well as Web Development.**

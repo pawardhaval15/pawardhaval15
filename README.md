@@ -6,8 +6,6 @@
 
    <p align="center">
   <img src= "https://media.giphy.com/media/1forTCExMq1F3M2JjS/giphy.gif">
-   ![ezgif com-video-to-gif](https://github.com/pawardhaval15/pawardhaval15/assets/89838369/e189d3f3-9495-4618-80f2-4e8be12e25b9)
-
   </p>
   
  - 🌱 I’m currently learning **Python and AI/ML Development as well as Web Development.**

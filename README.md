@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any Web Development and AI/ML Projects which will help me to grow my skills as a Developer.**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1cckAwsrTTChHmjQUw4eEjFz0EZX8gyF2/view?usp=drive_link.
+- 📄 Know about my experiences https://drive.google.com/file/d/1sntQg0AesZUZS-IaCl1JRM_no848k7GP/view?usp=drive_link.
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, MySQL, React, Machine Learning.**
 

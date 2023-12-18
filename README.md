@@ -2,7 +2,9 @@
 
 
 
-<h2 align="center">A passionate Python developer from India</h2>
+<h2 align="center">
+   <span className="italic">A passionate Python developer from India</span>
+</h2>
 
    <p align="center">
   <img src= "https://media.giphy.com/media/1forTCExMq1F3M2JjS/giphy.gif">

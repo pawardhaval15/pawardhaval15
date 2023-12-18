@@ -3,7 +3,7 @@
 
 
 <h2 align="center">
-   <span className="italic">A passionate Python developer from India</span>
+   <span className="font-medium">A passionate Python developer from India</span>
 </h2>
 
    <p align="center">

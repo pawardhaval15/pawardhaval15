@@ -7,7 +7,7 @@
 </h2>
 
    <p align="center">
-  <img src= "https://media.giphy.com/media/1forTCExMq1F3M2JjS/giphy.gif">
+  <img src= ">
   </p>
   
  - 🌱 I’m currently learning **Python and AI/ML Development as well as Web Development.**

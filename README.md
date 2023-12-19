@@ -6,9 +6,7 @@
    <span className="font-medium">A passionate Python developer from India</span>
 </h2>
 
-   <p align="center">
-  <img src= ">
-  </p>
+
   
  - 🌱 I’m currently learning **Python and AI/ML Development as well as Web Development.**
 

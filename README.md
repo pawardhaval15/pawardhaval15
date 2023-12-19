@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1sntQg0AesZUZS-IaCl1JRM_no848k7GP/view?usp=drive_link.
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, MySQL, React, Machine Learning.**
+- 💬 Ask me about **Python, Machine Learning, Django, HTML, CSS, JavaScript, MySQL, React.**
 
 - 📫 How to reach me **pawardhaval15@gmail.com**
 

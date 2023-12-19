@@ -26,9 +26,6 @@
 <a href="linkedin.com/in/dhaval-pawar-7b556620b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.codechef.com/users/pawardhaval15" target="_blank">
-<img src=https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white alt=Codechef style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.hackerrank.com/pawardhaval15?hr_r=1" target="_blank">
 <img src=	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=HackerRank style="margin-bottom: 5px;" />
 </a>

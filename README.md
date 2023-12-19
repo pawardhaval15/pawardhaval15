@@ -6,7 +6,7 @@
    <span className="font-medium">A passionate Python developer</span>
 </h2>
 
-<p align="center"> <img src= "https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif"> 
+<p align="center"> <img src= "https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"> 
 </p>
   
  - 🌱 I’m currently learning **Python and AI/ML Development as well as Web Development.**

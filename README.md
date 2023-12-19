@@ -3,7 +3,7 @@
 
 
 <h2 align="center">
-   <span className="font-medium">A passionate Python developer from India</span>
+   <span className="font-medium">A passionate Python developer</span>
 </h2>
 
 <p align="center"> <img src= "https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif"> 

@@ -1,3 +1,4 @@
+# 💫 About Me:
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <span style="color:yellow;">Dhaval. :blush:</span></h1>
 
 
@@ -9,7 +10,6 @@
 <p align="center"> <img src= "https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif"> 
 </p>
   
- # 💫 About Me:
 🌱 I’m currently learning Python and AI/ML Development as well as Web Development.<br><br>👯 I’m looking to collaborate on any Web Development and AI/ML Projects which will help me to grow my skills as a Developer.<br><br>📄 Know about my experiences https://drive.google.com/file/d/1sntQg0AesZUZS-IaCl1JRM_no848k7GP/view?usp=drive_link.<br><br>💬 Ask me about Python, Machine Learning, HTML, CSS, JavaScript, MySQL, React.<br><br>📫 How to reach me pawardhaval15@gmail.com
 
 

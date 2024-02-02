@@ -11,7 +11,7 @@
 </p>
   
 🌱 I’m currently learning Python and AI/ML Development as well as Web Development.<br><br>👯 I’m looking to collaborate on any Web Development and AI/ML Projects which will help me to grow my skills as a Developer.<br><br>📄 Know about my experiences https://drive.google.com/file/d/1sntQg0AesZUZS-IaCl1JRM_no848k7GP/view?usp=drive_link.<br><br>💬 Ask me about Python, Machine Learning, HTML, CSS, JavaScript, MySQL, React.<br><br>📫 How to reach me pawardhaval15@gmail.com
-<li>Visit  <a href="https://vinodjangid.me/" target="_blank">Portfolio</a> to know more about me ...</li>
+<li>Visit  <a href="https://pawardhaval15.github.io/portfolio_website.github.io/" target="_blank">Portfolio</a> to know more about me ...</li>
 
 
 ## 🌐 Socials:

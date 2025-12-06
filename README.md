@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-   <span className="font-medium">A passionate AI || Python developer</span>
+   <span className="font-medium">A passionate AI | Python developer</span>
 </h2>
 
 <p align="center"> <img src= "https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif"> 
